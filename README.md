@@ -1,2 +1,3 @@
 # hello-world
-new erpository
+hi,
+I am ben wong. I live in HK.
